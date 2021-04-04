@@ -1,4 +1,4 @@
-# design24/7
+# design24
 body {
     font-family: sans-serif;
     background-color: #0e1d5eff;
